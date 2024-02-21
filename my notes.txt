@@ -1,3 +1,5 @@
-hi, i am olivia. this is a demonstration of the use of gitHub.
+hi, i am olivia. i am a student on MDP.
+this is a demonstration of the use of gitHub.
+we are learn something about anything in the class.
 
 Peace.
